@@ -1,0 +1,4 @@
+com/examplo/rest/springcloudmysql/controller/ContactController.class
+com/examplo/rest/springcloudmysql/SpringCloudMysqlApplication.class
+com/examplo/rest/springcloudmysql/model/Contact.class
+com/examplo/rest/springcloudmysql/repository/ContactRepository.class
